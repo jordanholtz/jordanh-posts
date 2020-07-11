@@ -7,7 +7,7 @@ servers:
 paths:
   /posts:
     get:
-      summary: 'Sample endpoint: Returns details about a particular user.'
+      summary: 'Sample endpoint: Returns details about a particular post.'
       operationId: listUser
       tags:
         - posts
